@@ -1,1 +1,1 @@
-This directory contains scripts for managing shell permissions.
+Scripts for learning about shell permissions, groups, and users.
