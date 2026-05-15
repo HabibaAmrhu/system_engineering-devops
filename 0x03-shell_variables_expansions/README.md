@@ -1,1 +1,1 @@
-Shell variables and expansions project
+Technical project on shell variables, environment variables, and arithmetic expansions.
